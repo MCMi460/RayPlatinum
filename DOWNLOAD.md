@@ -4,7 +4,5 @@
 
 
 
-(I cannot ensure that this link will remain valid)
-
 [download]: https://mi460.dev/fileportal/RayPlatinum.zip
 [123020]: https://mi460.dev/fileportal/rp123020.zip
