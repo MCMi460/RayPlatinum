@@ -33,7 +33,7 @@ This game is still being developed as I learn more about Rom Hacking. This Repo 
 ---
 If you have any issues, [contact me here][support].
 
-Do not claim to own or have developed this product, nor redistribute it with a price tag. Project development started 12/29/20
+Do not claim to own or have developed this product, nor redistribute it with a price tag. Project development started 12/29/20.
 
 <a href="https://mi460.dev/github"><img src="https://img.shields.io/static/v1?label=MCMi460&amp;message=Github&amp;color=c331d4"></a>
 <a href="https://mi460.dev/discord"><img src="https://discordapp.com/api/guilds/699728181841887363/embed.png"></a>
