@@ -1,4 +1,4 @@
-# Pokemon RayPlatinum
+# [Pokemon RayPlatinum][download]
 
 A Delta Patch for PKMN Platinum that adds my OC character over Lucas and includes additional areas to the game.
 
@@ -39,3 +39,4 @@ Do not claim to own or have developed this product, nor redistribute it with a p
 <a href="https://mi460.dev/discord"><img src="https://discordapp.com/api/guilds/699728181841887363/embed.png"></a>
 
 [support]: https://mi460.dev/bugs
+[download]: /DOWNLOAD.md
